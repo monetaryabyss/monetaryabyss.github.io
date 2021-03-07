@@ -5,3 +5,7 @@ I guess that is what we have going on here. Don't expect much from this site. Th
 ## Me
 * Most places - @kc2bez  - more on that later.
 * Some places - @monetaryabyss  - Just like it sounds - moneypit
+
+## Stuff I am involved in
+* [Lubuntu](https://phab.lubuntu.me/w/contributors/)
+* [Linux User Space](https://linuxuserspace.show/hosts/)
