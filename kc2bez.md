@@ -1,5 +1,4 @@
 ---
-layout: "page"
 title: kc2bez
 ---
 
