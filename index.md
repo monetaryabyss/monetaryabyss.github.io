@@ -16,3 +16,8 @@ My day job is in IT. I manage an infrastructure team for a university. My primar
 * [PaloAlto NGFW](https://www.paloaltonetworks.com/)
 * Some experience with [Cisco](https://www.cisco.com/) and [Juniper](https://www.juniper.net/)
 * I've built a couple of [pfSense firewalls](https://www.pfsense.org/)
+
+Managing the infrastructure team means I also backup other members.
+### Telephone
+* [Avaya CM6 phone system](https://www.avaya.com/) with over 1500 VOIP phone sets.
+* [XMedius voicemail/callcenter software](https://www.xmedius.com/#xm-connect)
