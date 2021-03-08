@@ -9,3 +9,10 @@ I guess that is what we have going on here. Don't expect much from this site. Th
 ## Stuff I am involved in
 * [Lubuntu](https://phab.lubuntu.me/w/contributors/)
 * [Linux User Space](https://linuxuserspace.show/hosts/)
+
+## Things I know
+My day job is in IT. I manage an infrastructure team for a university. My primary technical role is network administrator. 
+* [Extreme Networks](https://www.extremenetworks.com/) [EXOS,](https://www.extremenetworks.com/support/documentation/extremexos-31-2/) [EOS,](https://www.extremenetworks.com/support/documentation/eos-8-61/) [BOSS](https://www.extremenetworks.com/support/documentation/ers-4800-document-collections/) switch operating systems
+* [PaloAlto NGFW](https://www.paloaltonetworks.com/)
+* Some experience with [Cisco](https://www.cisco.com/) and [Juniper](https://www.juniper.net/)
+* I've built a couple of [pfSense firewalls](https://www.pfsense.org/)
