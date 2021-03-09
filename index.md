@@ -18,10 +18,20 @@ My day job is in IT. I manage an infrastructure team for a university. My primar
 * I've built a couple of [pfSense firewalls](https://www.pfsense.org/)
 
 Managing the infrastructure team means I also backup other members.
+
 ### Telephone
+
 * [Avaya CM6 phone system](https://www.avaya.com/) with over 1500 VOIP phone sets.
 * [XMedius voicemail/callcenter software](https://www.xmedius.com/#xm-connect)
+
 ### Server team
+
 * [Linux](https://en.wikipedia.org/wiki/Linux_kernel) - mostly [Ubuntu](https://ubuntu.com/), some [CentOS](https://www.centos.org/)
 * [Microsoft Windows, unfortunately](https://en.wikipedia.org/wiki/Windows_Server)
 * [M365 administration](https://www.microsoft.com/en-us/microsoft-365)
+
+### Audio/Visual team
+
+* Mostly [Extron](https://www.extron.com)
+* [Sharp Tvs](https://business.sharpusa.com/Commercial-Displays)
+* [Maxell projectors](https://maxellproav.com/)
