@@ -4,6 +4,8 @@ I guess that is what we have going on here. Don't expect much from this site. Th
 
 ## Me
 * Most places - @kc2bez  - more on that [Here](/kc2bez).
+    * <a rel="me" href=https://mastodon.technology/@kc2bez>Mastodon</a>
+    * [Twitter](https://twitter.com/kc2bez)
 * Some places - @monetaryabyss  - Just like it sounds - moneypit
 
 ## Stuff I am involved in
