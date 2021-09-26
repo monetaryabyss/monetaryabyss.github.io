@@ -4,8 +4,6 @@ I guess that is what we have going on here. Don't expect much from this site. Th
 
 ## Me
 * Most places - @kc2bez  - more on that [Here](/kc2bez).
-    * <a rel="me" href=https://mastodon.technology/@kc2bez>Mastodon</a>
-    * [Twitter](https://twitter.com/kc2bez)
 * Some places - @monetaryabyss  - Just like it sounds - moneypit
 
 ## Stuff I am involved in
@@ -37,3 +35,10 @@ Managing the infrastructure team means I also backup other members.
 * Mostly [Extron](https://www.extron.com)
 * [Sharp Tvs](https://business.sharpusa.com/Commercial-Displays)
 * [Maxell projectors](https://maxellproav.com/)
+
+
+<a rel="me" href=https://mastodon.technology/@kc2bez>
+Mastodon
+</a>
+
+[Twitter](https://twitter.com/kc2bez)
