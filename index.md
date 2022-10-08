@@ -37,7 +37,7 @@ Managing the infrastructure team means I also backup other members.
 * [Maxell projectors](https://maxellproav.com/)
 
 
-<a rel="me" href="https://mastodon.technology/@kc2bez">
+<a rel="me" href="https://mastodon.social/@kc2bez">
 *Mastodon*
 </a>
 
