@@ -11,13 +11,13 @@ I guess that is what we have going on here. Don't expect much from this site. Th
 * [Linux User Space](https://linuxuserspace.show/hosts/)
 
 ## Things I know
-My day job is in IT. I manage an infrastructure team for a university. My primary technical role is network administrator. 
+My day job is in IT. I am a director for an IT team for a university. Previously my primary technical role was a network administrator. 
 * [Extreme Networks](https://www.extremenetworks.com/) [EXOS,](https://www.extremenetworks.com/support/documentation/extremexos-31-2/) [EOS,](https://www.extremenetworks.com/support/documentation/eos-8-61/) [BOSS](https://www.extremenetworks.com/support/documentation/ers-4800-document-collections/) switch operating systems
 * [PaloAlto NGFW](https://www.paloaltonetworks.com/)
 * Some experience with [Cisco](https://www.cisco.com/) and [Juniper](https://www.juniper.net/)
 * I've built a couple of [pfSense firewalls](https://www.pfsense.org/)
 
-Managing the infrastructure team means I also backup other members.
+I also previously managed the infrastructure team so I was backup to other members.
 
 ### Telephone
 
@@ -36,6 +36,7 @@ Managing the infrastructure team means I also backup other members.
 * [Sharp Tvs](https://business.sharpusa.com/Commercial-Displays)
 * [Maxell projectors](https://maxellproav.com/)
 
+## Socials
 
 🦣 <a rel="me" href="https://mastodon.social/@kc2bez">
 Mastodon
